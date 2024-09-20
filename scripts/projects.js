@@ -6,7 +6,7 @@
 // Data: List of projects
 let projectsData = [
     {
-        name: "PROMs web Application",
+        name: "PROMs Web Application",
         description:
             "PROMs is a patient recovery outcome measurement program that allows doctors to track patient recovery using graphs. I was responsible for the backend development and project infrastructure.",
         link: "https://proms.flexiheart.co/",

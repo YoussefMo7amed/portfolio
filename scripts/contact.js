@@ -19,6 +19,9 @@ form.addEventListener("submit", function (event) {
         .then(() => {
             // Show custom confirmation message
             confirmationMessage.style.display = "block";
+            setTimeout(() => {
+                confirmationMessage.style.display = "none";
+            }, 4000);
 
             // Optionally clear the form
             form.reset();

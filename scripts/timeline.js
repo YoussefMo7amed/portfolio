@@ -49,7 +49,14 @@ let timelineData = [
         month: "October",
         title: "Military Service Enrollment",
     },
-
+    {
+        year: "2021",
+        month: "March",
+        title: "Participation in ACPC 2021 (Africa and Arab Collegiate Programming Championship)",
+        description:
+            "Our Team was invited to participate in ACPC 2021, and it was the 2nd team to participate in this championship from our faculty in 10 years",
+        photos: ["./res/2021/acpc2020.jpg", "./res/2021/acpc2020-youssef.jpg"],
+    },
     {
         year: "2021",
         month: "April",
