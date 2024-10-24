@@ -7,7 +7,18 @@ let timelineData = [
         description:
             "Joined as a Software Engineer and started working on backend development, and worked on creating REST APIs and managing cloud infrastructure.",
     },
-
+    {
+        year: "2024",
+        month: "October",
+        title: "Honored as Top Achiever in AWS Cloud Specialist Program",
+        description:
+            "I have been recognized as a top achiever in the AWS Cloud Specialist track provided by DEPI (Digital Egypt Pioneers Initiative). This program emphasized practical learning and hands-on experience, preparing participants for key AWS certifications, including AWS Certified Cloud Practitioner and AWS Certified Solutions Architect.",
+        photos: [
+            "./res/2024/depi.jpg",
+            "./res/2024/aws-web-app-badge.png",
+            "./res/2024/aws-arch-badge.png",
+        ],
+    },
     {
         year: "2023",
         month: "April",
