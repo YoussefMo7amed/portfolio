@@ -45,6 +45,19 @@ let projectsData = [
         ],
     },
     {
+        name: "Designing a Social Media Analytics Platform",
+        description:
+            "Designed a robust data engineering pipeline to ETL data from a JSON file into a PostgreSQL data warehouse using PySpark, Apache Airflow, and dbt. Improved pipeline speed significantly by implementing caching and pagination, reducing overall processing time and enhancing data flow efficiency.",
+        technologies: [
+            "Python",
+            "Jupyter Notebook",
+            "pyspark",
+            "PostgreSQL",
+            "Airflow",
+            "dbt",
+        ],
+    },
+    {
         name: "Portfolio Website",
         description:
             "A personal portfolio to showcase my skills, projects, and experience.",
