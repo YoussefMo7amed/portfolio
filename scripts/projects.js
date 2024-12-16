@@ -64,6 +64,20 @@ let projectsData = [
         technologies: ["HTML", "CSS", "JavaScript"],
         link: "https://youssefmo7amed.github.io/portfolio",
     },
+    {
+        name: "ChatSphere (Chat System API)",
+        description:
+            "Implemented a chat system backend API built with Node.js, Express, Sequelize (for MySQL), Redis, RabbitMQ, and ElasticSearch. Features include creating and managing chats and messages, real-time optimization, and ElasticSearch integration for advanced message searching.",
+        technologies: [
+            "Node.js",
+            "Express",
+            "MySQL",
+            "Sequelize",
+            "Redis",
+            "RabbitMQ",
+            "ElasticSearch",
+        ],
+    },
 ];
 
 // Function to render projects
