@@ -9,7 +9,7 @@ let projectsData = [
         name: "PROMs Web Application",
         description:
             "PROMs is a patient recovery outcome measurement program that allows doctors to track patient recovery using graphs. I was responsible for the backend development and project infrastructure.",
-        link: "https://proms.flexiheart.co/",
+        link: "https://flexiproms.com/",
     },
     {
         name: "Sahih Application",
@@ -77,6 +77,7 @@ let projectsData = [
             "RabbitMQ",
             "ElasticSearch",
         ],
+        link: "https://github.com/YoussefMo7amed/ChatSphere",
     },
 ];
 
