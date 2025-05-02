@@ -51,7 +51,7 @@ let projectsData = [
         technologies: [
             "Python",
             "Jupyter Notebook",
-            "pyspark",
+            "PySpark",
             "PostgreSQL",
             "Airflow",
             "dbt",
@@ -78,6 +78,13 @@ let projectsData = [
             "ElasticSearch",
         ],
         link: "https://github.com/YoussefMo7amed/ChatSphere",
+    },
+    {
+        name: "Logistics ETL Migration",
+        description:
+            "Developed an ETL pipeline to migrate logistics data from NoSQL database (MongoDB) to SQL database (MySQL). Ensured data integrity and optimized performance using Python and SQL.",
+        technologies: ["Python", "SQL", "ETL", "Pandas", "Data Warehousing"],
+        link: "https://github.com/YoussefMo7amed/logistics-etl-migration",
     },
 ];
 
