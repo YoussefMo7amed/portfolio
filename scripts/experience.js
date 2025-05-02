@@ -6,20 +6,25 @@
 // Data: List of experience entries
 let experienceData = [
     {
+        jobTitle: "Data Engineer",
+        companyName: "Bosta",
+        companyLink: "https://bosta.co/",
+        dates: "Mar 2025 - Present",
+        description: "Built data pipelines, optimized ETLs, reduced cloud costs, and contributed to a data warehouse.",
+    },
+    {
         jobTitle: "Software Engineer",
         companyName: "FlexiHeart",
         companyLink: "https://flexi-heart.com/",
-        dates: "Jan 2024 - Present",
-        description:
-            "Developed backend services and projects using Node.js and MongoDB, and worked on creating REST APIs and managing cloud infrastructure to ensure scalability and performance.",
+        dates: "Jan 2024 - Feb 2025",
+        description: "Developed backend services, REST APIs, and managed cloud infrastructure.",
     },
     {
         jobTitle: "Co-Founder and Software Engineer",
         companyName: "Seen - س",
         companyLink: "https://seen-arabic.github.io/",
         dates: "May 2021 - Present",
-        description:
-            "Built free open source projects, focusing on helping the Arabic community.",
+        description: "Created open source projects to support the Arabic community.",
     },
 ];
 

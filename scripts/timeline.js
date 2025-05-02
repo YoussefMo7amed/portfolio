@@ -1,11 +1,24 @@
 // Data: List of timeline events with photos
 let timelineData = [
     {
+        year: "2025",
+        month: "March",
+        title: "Started at Bosta",
+        description:
+            "Joined as a Data Engineer and started working on building data pipelines, optimizing ETLs, reducing cloud costs, and contributing to a data warehouse.",
+        photos: [
+            "./res/2025/bosta.png",
+        ],
+    },
+    {
         year: "2024",
         month: "February",
         title: "Started at FlexiHeart",
         description:
             "Joined as a Software Engineer and started working on backend development, and worked on creating REST APIs and managing cloud infrastructure.",
+        photos: [
+            "./res/2024/flexiheart.png",
+        ],
     },
     {
         year: "2024",
